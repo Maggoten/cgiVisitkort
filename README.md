@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+cd cgiVisitkort
 ```
 
 ### Compiles and hot-reloads for development
